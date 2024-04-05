@@ -5,7 +5,8 @@
 }
 
 .container{
-    background-color:bisque;
+    /* background-color:bisque; */
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
     min-height: 100vh;
     border: 10px solid black;
 }
